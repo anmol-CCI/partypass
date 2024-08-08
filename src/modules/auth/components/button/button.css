@@ -1,0 +1,28 @@
+.button {
+    all: unset;
+    align-items: center;
+    background-color: #e3682e;
+    border: 1px solid;
+    border-color: #e9a17f;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    min-width: 250px;
+    overflow: hidden;
+    padding: 20px 30px;
+    position: relative;
+  }
+  
+  .button .continue {
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }

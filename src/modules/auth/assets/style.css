@@ -1,0 +1,224 @@
+.log-in {
+    align-items: center;
+    background-color: #0c1510;
+    display: flex;
+    min-height: 100vh;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .log-in .image {
+    height: 982px;
+    left: -756px;
+    object-fit: cover;
+    position: absolute;
+    top: -491px;
+    width: 1512px;
+  }
+  
+  .log-in .left {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    padding: 60px;
+    position: relative;
+  }
+  
+  .log-in .back {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .log-in .vector {
+    height: 14px;
+    margin-left: -1px;
+    position: relative;
+    width: 8px;
+  }
+  
+  .log-in .text-wrapper {
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .log-in .logo {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 10px;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+  }
+  
+  .log-in .img {
+    height: 57.78px;
+    object-fit: cover;
+    position: relative;
+    width: 300px;
+  }
+  
+  .log-in .right {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    gap: 10px;
+    padding: 60px;
+    position: relative;
+  }
+  
+  .log-in .form-outer {
+    -webkit-backdrop-filter: blur(40px) brightness(100%);
+    align-items: flex-start;
+    backdrop-filter: blur(40px) brightness(100%);
+    background-color: #ffffff4c;
+    border: 1px solid;
+    border-color: #ffffff66;
+    border-radius: 10px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 10px;
+    overflow: hidden;
+    padding: 60px;
+    position: relative;
+  }
+  
+  .log-in .div {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .log-in .p {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+  }
+  
+  .log-in .form {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    padding: 100px 0px 0px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .log-in .input-instance {
+    align-self: stretch !important;
+    flex: 0 0 auto !important;
+    width: 100% !important;
+  }
+  
+  .log-in .spacer {
+    height: 60px;
+    position: relative;
+    width: 100px;
+  }
+  
+  .log-in .button-instance {
+    flex: 0 0 auto !important;
+  }
+  
+  .log-in .frame {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: center;
+    padding: 60px 0px 0px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .log-in .new-here-create-an {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: right;
+  }
+  
+  .log-in .span {
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+  }
+  
+  .log-in .text-wrapper-2 {
+    text-decoration: underline;
+  }
+  
+  .log-in .forgot-your-password {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: right;
+  }
+
+  .label {
+    height: 26px;
+    width: 45px;
+  }
+  
+  .label .text-wrapper {
+    color: #ffffff;
+    font-family: "Roc Grotesk-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+  }
